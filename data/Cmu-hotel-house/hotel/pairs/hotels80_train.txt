@@ -1,0 +1,14 @@
+../Data/hotel/hotels/hotel001 ../Data/hotel/hotel001.scf ../Data/hotel/images/hotel.seq0.png ../Data/hotel/hotel001.adj ../Data/house/correct 0
+../Data/hotel/hotels/hotel081 ../Data/hotel/hotel081.scf ../Data/hotel/images/hotel.seq80.png ../Data/hotel/hotel081.adj ../Data/house/correct 0
+../Data/hotel/hotels/hotel004 ../Data/hotel/hotel004.scf ../Data/hotel/images/hotel.seq3.png ../Data/hotel/hotel004.adj ../Data/house/correct 0
+../Data/hotel/hotels/hotel084 ../Data/hotel/hotel084.scf ../Data/hotel/images/hotel.seq83.png ../Data/hotel/hotel084.adj ../Data/house/correct 0
+../Data/hotel/hotels/hotel007 ../Data/hotel/hotel007.scf ../Data/hotel/images/hotel.seq6.png ../Data/hotel/hotel007.adj ../Data/house/correct 0
+../Data/hotel/hotels/hotel087 ../Data/hotel/hotel087.scf ../Data/hotel/images/hotel.seq86.png ../Data/hotel/hotel087.adj ../Data/house/correct 0
+../Data/hotel/hotels/hotel010 ../Data/hotel/hotel010.scf ../Data/hotel/images/hotel.seq9.png ../Data/hotel/hotel010.adj ../Data/house/correct 0
+../Data/hotel/hotels/hotel090 ../Data/hotel/hotel090.scf ../Data/hotel/images/hotel.seq89.png ../Data/hotel/hotel090.adj ../Data/house/correct 0
+../Data/hotel/hotels/hotel013 ../Data/hotel/hotel013.scf ../Data/hotel/images/hotel.seq12.png ../Data/hotel/hotel013.adj ../Data/house/correct 0
+../Data/hotel/hotels/hotel093 ../Data/hotel/hotel093.scf ../Data/hotel/images/hotel.seq92.png ../Data/hotel/hotel093.adj ../Data/house/correct 0
+../Data/hotel/hotels/hotel016 ../Data/hotel/hotel016.scf ../Data/hotel/images/hotel.seq15.png ../Data/hotel/hotel016.adj ../Data/house/correct 0
+../Data/hotel/hotels/hotel096 ../Data/hotel/hotel096.scf ../Data/hotel/images/hotel.seq95.png ../Data/hotel/hotel096.adj ../Data/house/correct 0
+../Data/hotel/hotels/hotel019 ../Data/hotel/hotel019.scf ../Data/hotel/images/hotel.seq18.png ../Data/hotel/hotel019.adj ../Data/house/correct 0
+../Data/hotel/hotels/hotel099 ../Data/hotel/hotel099.scf ../Data/hotel/images/hotel.seq98.png ../Data/hotel/hotel099.adj ../Data/house/correct 0

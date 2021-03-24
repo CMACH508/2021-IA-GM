@@ -1,0 +1,8 @@
+../Data/hotel/hotels/hotel002 ../Data/hotel/hotel002.scf ../Data/hotel/images/hotel.seq1.png ../Data/hotel/hotel002.adj ../Data/house/correct 0
+../Data/hotel/hotels/hotel092 ../Data/hotel/hotel092.scf ../Data/hotel/images/hotel.seq91.png ../Data/hotel/hotel092.adj ../Data/house/correct 0
+../Data/hotel/hotels/hotel005 ../Data/hotel/hotel005.scf ../Data/hotel/images/hotel.seq4.png ../Data/hotel/hotel005.adj ../Data/house/correct 0
+../Data/hotel/hotels/hotel095 ../Data/hotel/hotel095.scf ../Data/hotel/images/hotel.seq94.png ../Data/hotel/hotel095.adj ../Data/house/correct 0
+../Data/hotel/hotels/hotel008 ../Data/hotel/hotel008.scf ../Data/hotel/images/hotel.seq7.png ../Data/hotel/hotel008.adj ../Data/house/correct 0
+../Data/hotel/hotels/hotel098 ../Data/hotel/hotel098.scf ../Data/hotel/images/hotel.seq97.png ../Data/hotel/hotel098.adj ../Data/house/correct 0
+../Data/hotel/hotels/hotel011 ../Data/hotel/hotel011.scf ../Data/hotel/images/hotel.seq10.png ../Data/hotel/hotel011.adj ../Data/house/correct 0
+../Data/hotel/hotels/hotel101 ../Data/hotel/hotel101.scf ../Data/hotel/images/hotel.seq100.png ../Data/hotel/hotel101.adj ../Data/house/correct 0

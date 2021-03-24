@@ -1,0 +1,14 @@
+../Data/hotel/hotels/hotel003 ../Data/hotel/hotel003.scf ../Data/hotel/images/hotel.seq2.png ../Data/hotel/hotel003.adj ../Data/house/correct 0
+../Data/hotel/hotels/hotel083 ../Data/hotel/hotel083.scf ../Data/hotel/images/hotel.seq82.png ../Data/hotel/hotel083.adj ../Data/house/correct 0
+../Data/hotel/hotels/hotel006 ../Data/hotel/hotel006.scf ../Data/hotel/images/hotel.seq5.png ../Data/hotel/hotel006.adj ../Data/house/correct 0
+../Data/hotel/hotels/hotel086 ../Data/hotel/hotel086.scf ../Data/hotel/images/hotel.seq85.png ../Data/hotel/hotel086.adj ../Data/house/correct 0
+../Data/hotel/hotels/hotel009 ../Data/hotel/hotel009.scf ../Data/hotel/images/hotel.seq8.png ../Data/hotel/hotel009.adj ../Data/house/correct 0
+../Data/hotel/hotels/hotel089 ../Data/hotel/hotel089.scf ../Data/hotel/images/hotel.seq88.png ../Data/hotel/hotel089.adj ../Data/house/correct 0
+../Data/hotel/hotels/hotel012 ../Data/hotel/hotel012.scf ../Data/hotel/images/hotel.seq11.png ../Data/hotel/hotel012.adj ../Data/house/correct 0
+../Data/hotel/hotels/hotel092 ../Data/hotel/hotel092.scf ../Data/hotel/images/hotel.seq91.png ../Data/hotel/hotel092.adj ../Data/house/correct 0
+../Data/hotel/hotels/hotel015 ../Data/hotel/hotel015.scf ../Data/hotel/images/hotel.seq14.png ../Data/hotel/hotel015.adj ../Data/house/correct 0
+../Data/hotel/hotels/hotel095 ../Data/hotel/hotel095.scf ../Data/hotel/images/hotel.seq94.png ../Data/hotel/hotel095.adj ../Data/house/correct 0
+../Data/hotel/hotels/hotel018 ../Data/hotel/hotel018.scf ../Data/hotel/images/hotel.seq17.png ../Data/hotel/hotel018.adj ../Data/house/correct 0
+../Data/hotel/hotels/hotel098 ../Data/hotel/hotel098.scf ../Data/hotel/images/hotel.seq97.png ../Data/hotel/hotel098.adj ../Data/house/correct 0
+../Data/hotel/hotels/hotel021 ../Data/hotel/hotel021.scf ../Data/hotel/images/hotel.seq20.png ../Data/hotel/hotel021.adj ../Data/house/correct 0
+../Data/hotel/hotels/hotel101 ../Data/hotel/hotel101.scf ../Data/hotel/images/hotel.seq100.png ../Data/hotel/hotel101.adj ../Data/house/correct 0
